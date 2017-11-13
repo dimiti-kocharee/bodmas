@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1734px" height="2214px" viewBox="0 0 1734 2214" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.1 (8751) - http://www.bohemiancoding.com/sketch -->
+    <title>iconsyo 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M60,120 C93.137085,120 120,93.137085 120,60 C120,26.862915 93.137085,0 60,0 C26.862915,0 0,26.862915 0,60 C0,93.137085 26.862915,120 60,120 Z"></path>
+        <path id="path-3" d="M60,120 C93.137085,120 120,93.137085 120,60 C120,26.862915 93.137085,0 60,0 C26.862915,0 0,26.862915 0,60 C0,93.137085 26.862915,120 60,120 Z"></path>
+        <path id="path-5" d="M46.4516129,92.3076923 C72.1061303,92.3076923 92.9032258,71.6439115 92.9032258,46.1538462 C92.9032258,20.6637808 72.1061303,0 46.4516129,0 C20.7970955,0 0,20.6637808 0,46.1538462 C0,71.6439115 20.7970955,92.3076923 46.4516129,92.3076923 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Plus-2" sketch:type="MSLayerGroup" transform="translate(757.500000, 1915.500000)">
+            <g id="Group-2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" fill="#518ACA" x="10" y="10" width="200" height="200" rx="8"></rect>
+                <rect id="Rectangle-1" fill="#7CA9DC" x="0" y="0" width="200" height="200" rx="8"></rect>
+            </g>
+        </g>
+        <g id="Decline" sketch:type="MSLayerGroup" transform="translate(109.000000, 61.000000)">
+            <rect id="Rectangle-2" fill="#E75D5D" sketch:type="MSShapeGroup" x="10" y="10" width="200" height="200" rx="8"></rect>
+            <rect id="Rectangle-1" fill="#FF7979" sketch:type="MSShapeGroup" x="0" y="0" width="200" height="200" rx="8"></rect>
+            <g id="Rectangle-2-+-Rectangle-3" transform="translate(40.000000, 40.000000)" fill="#CF0000" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" transform="translate(60.000000, 60.000000) rotate(-45.000000) translate(-60.000000, -60.000000) " x="50" y="-15" width="20" height="150"></rect>
+                <rect id="Rectangle-3" transform="translate(60.000000, 60.000000) rotate(45.000000) translate(-60.000000, -60.000000) " x="50" y="-15" width="20" height="150"></rect>
+            </g>
+        </g>
+        <g id="Accept" sketch:type="MSLayerGroup" transform="translate(369.000000, 61.000000)">
+            <g id="Group-2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" fill="#749B49" x="10" y="10" width="200" height="200" rx="8"></rect>
+                <rect id="Rectangle-1" fill="#99C569" x="0" y="0" width="200" height="200" rx="8"></rect>
+            </g>
+            <g id="Oval-1-+-Oval-2" transform="translate(41.000000, 40.000000)">
+                <mask id="mask-2" sketch:name="Oval 1" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval-1" fill="#3E5E1B" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <circle id="Oval-2" fill="#99C569" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="60" cy="60" r="40"></circle>
+            </g>
+        </g>
+        <g id="Question" sketch:type="MSLayerGroup" transform="translate(629.000000, 61.000000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#BFB536" x="10" y="10" width="200" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#FCF26D" x="0" y="0" width="200" height="200" rx="8"></rect>
+                </g>
+            </g>
+            <text id="?" sketch:type="MSTextLayer" font-family=".Lucida Grande UI" font-size="144" font-weight="normal" fill="#B3A500">
+                <tspan x="68" y="158">?</tspan>
+            </text>
+        </g>
+        <g id="Delete" sketch:type="MSLayerGroup" transform="translate(109.000000, 321.000000)">
+            <rect id="Rectangle-2" fill="#E75D5D" sketch:type="MSShapeGroup" x="10" y="10" width="200" height="200" rx="8"></rect>
+            <rect id="Rectangle-1" fill="#FF7979" sketch:type="MSShapeGroup" x="0" y="0" width="200" height="200" rx="8"></rect>
+            <g id="Path-2-+-Path-3-+-Rectangle-17" transform="translate(45.000000, 37.000000)" sketch:type="MSShapeGroup">
+                <path d="M15.4658203,22.0346535 L51.2167969,8.98855198 L69.9375,24.0813738 L15.4658203,22.0346535 Z" id="Path-2" fill="#FDFDFD"></path>
+                <path d="M55.1611692,27.1933806 L90.9121458,14.1472791 L115.657252,40.5146917 L55.1611692,27.1933806 Z" id="Path-3" fill="#FDFDFD" transform="translate(85.409210, 27.330985) rotate(-31.000000) translate(-85.409210, -27.330985) "></path>
+                <path d="M21,128 L99,128 L120.049805,21.0693069 L-0.0498046875,21.0693069 L21,128 Z" id="Rectangle-17" fill="#D8D8D8"></path>
+            </g>
+            <g id="Rectangle-2-+-Rectangle-4" transform="translate(77.000000, 77.000000)" fill="#656565" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" transform="translate(28.500000, 28.500000) rotate(-45.000000) translate(-28.500000, -28.500000) " x="23.75" y="-7.125" width="9.5" height="71.25"></rect>
+                <rect id="Rectangle-3" transform="translate(28.500000, 28.500000) rotate(45.000000) translate(-28.500000, -28.500000) " x="23.75" y="-7.125" width="9.5" height="71.25"></rect>
+            </g>
+        </g>
+        <g id="Restart" sketch:type="MSLayerGroup" transform="translate(369.000000, 321.000000)">
+            <g id="Group-2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" fill="#518ACB" x="10" y="10" width="200" height="200" rx="8"></rect>
+                <rect id="Rectangle-1" fill="#7CA9DD" x="0" y="0" width="200" height="200" rx="8"></rect>
+            </g>
+            <g id="Oval-1-+-Oval-3-+-Path-5-+-Path-4" transform="translate(41.000000, 31.000000)" sketch:type="MSShapeGroup">
+                <g id="Oval-1-+-Oval-3" transform="translate(0.000000, 15.000000)">
+                    <path d="M60,120 C93.137085,120 120,93.137085 120,60 C120,26.862915 93.137085,0 60,0 C26.862915,0 0,26.862915 0,60 C0,93.137085 26.862915,120 60,120 Z" id="Oval-1" fill="#174C8A"></path>
+                    <path d="M60,100 C82.09139,100 100,82.09139 100,60 C100,37.90861 82.09139,20 60,20 C37.90861,20 20,37.90861 20,60 C20,82.09139 37.90861,100 60,100 Z" id="Oval-2" fill="#7CA9DC"></path>
+                </g>
+                <path d="M82.2021484,17.3974609 C76.956086,15.5901625 65.9794922,14.0087891 65.9794922,14.0087891 L62.8964844,36.5917969 L82.2021484,42.2675781 L97.1552734,24.7490234 C97.1552734,24.7490234 87.3480131,19.1702406 82.2021484,17.3974609 Z" id="Path-5" fill="#7CA9DC"></path>
+                <path d="M60,51.7457263 L81.6464844,25.7398466 L60,-0.266033745 L60,51.7457263 Z" id="Path-4" fill="#184D8A"></path>
+            </g>
+        </g>
+        <g id="Warning" sketch:type="MSLayerGroup" transform="translate(629.000000, 321.000000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#F6A623" x="10" y="10" width="200" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#FFC76B" x="0" y="0" width="200" height="200" rx="8"></rect>
+                </g>
+            </g>
+            <text id="!" sketch:type="MSTextLayer" font-family=".Lucida Grande UI" font-size="144" font-weight="normal" fill="#E18F06">
+                <tspan x="79" y="156">!</tspan>
+            </text>
+        </g>
+        <g id="Notices" sketch:type="MSLayerGroup" transform="translate(889.000000, 61.000000)">
+            <g id="Hint">
+                <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                    <g id="Group-2">
+                        <rect id="Rectangle-2" fill="#BFB536" x="10" y="10" width="721" height="200" rx="8"></rect>
+                        <rect id="Rectangle-1" fill="#FCF26D" x="0" y="0" width="721" height="200" rx="8"></rect>
+                    </g>
+                </g>
+                <circle id="Oval-5" fill="#B3A500" sketch:type="MSShapeGroup" cx="105" cy="101" r="80"></circle>
+                <text id="?" sketch:type="MSTextLayer" font-family=".Lucida Grande UI" font-size="144" font-weight="normal" fill="#FCF16D">
+                    <tspan x="69" y="157">?</tspan>
+                </text>
+                <text sketch:type="MSTextLayer" font-family="Aller Display" font-size="144" font-weight="normal" fill="#B3A500">
+                    <tspan x="274" y="151">Hint</tspan>
+                </text>
+            </g>
+            <g id="Good" transform="translate(0.000000, 258.500000)">
+                <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                    <g id="Group-2">
+                        <rect id="Rectangle-2" fill="#749B49" x="10" y="10" width="721" height="200" rx="8"></rect>
+                        <rect id="Rectangle-1" fill="#99C569" x="0" y="0" width="721" height="200" rx="8"></rect>
+                    </g>
+                </g>
+                <ellipse id="Oval-5" fill="#3E5E1C" sketch:type="MSShapeGroup" cx="105" cy="101" rx="80" ry="80"></ellipse>
+                <text sketch:type="MSTextLayer" font-family="Aller Display" font-size="143.162791" font-weight="normal" fill="#3E5E1C">
+                    <tspan x="274" y="150">Good</tspan>
+                </text>
+                <g id="Oval-1-+-Oval-3" transform="translate(46.000000, 40.000000)">
+                    <mask id="mask-4" sketch:name="Oval 1" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Oval-1" fill="#99C569" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                    <path d="M60,100 C82.09139,100 100,82.09139 100,60 C100,37.90861 82.09139,20 60,20 C37.90861,20 20,37.90861 20,60 C20,82.09139 37.90861,100 60,100 Z" id="Oval-2" fill="#3E5E1C" sketch:type="MSShapeGroup" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+            <g id="Stop" transform="translate(0.000000, 518.500000)">
+                <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                    <g id="Group-2">
+                        <rect id="Rectangle-2" fill="#E65D5D" x="10" y="10" width="721" height="200" rx="8"></rect>
+                        <rect id="Rectangle-1" fill="#FF7979" x="0" y="0" width="721" height="200" rx="8"></rect>
+                    </g>
+                </g>
+                <ellipse id="Oval-5" fill="#CE0000" sketch:type="MSShapeGroup" cx="105" cy="101" rx="80" ry="80"></ellipse>
+                <text sketch:type="MSTextLayer" font-family="Aller Display" font-size="143.162791" font-weight="normal" fill="#CE0000">
+                    <tspan x="274" y="150">Stop</tspan>
+                </text>
+                <g id="Rectangle-2-+-Rectangle-5" transform="translate(57.000000, 52.000000)" fill="#FF7979" sketch:type="MSShapeGroup">
+                    <rect id="Rectangle-2" x="41.2687162" y="-12.4563661" width="16.5147412" height="123.860559"></rect>
+                    <rect id="Rectangle-3" x="41.2687162" y="-12.4563661" width="16.5147412" height="123.860559"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Play-Button" sketch:type="MSLayerGroup" transform="translate(113.000000, 846.500000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#518ACA" x="10" y="10" width="1497" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#7CA9DC" x="0" y="0" width="1497" height="200" rx="8"></rect>
+                </g>
+            </g>
+            <text id="Play" sketch:type="MSTextLayer" font-family="Aller Display" font-size="143.162791" font-weight="normal" sketch:alignment="middle" fill="#184D8A">
+                <tspan x="605.970744" y="146">Play</tspan>
+            </text>
+        </g>
+        <g id="Play-Button-2" sketch:type="MSLayerGroup" transform="translate(113.000000, 1106.500000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#518ACA" x="10" y="10" width="1497" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#7CA9DC" x="0" y="0" width="1497" height="200" rx="8"></rect>
+                </g>
+            </g>
+            <text id="Settings" sketch:type="MSTextLayer" font-family="Aller Display" font-size="143.162791" font-weight="normal" sketch:alignment="middle" fill="#184D8A">
+                <tspan x="469.250279" y="146">Settings</tspan>
+            </text>
+        </g>
+        <g id="Play-Button-4" sketch:type="MSLayerGroup" transform="translate(113.000000, 1361.000000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#518ACA" x="10" y="10" width="1497" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#7CA9DC" x="0" y="0" width="1497" height="200" rx="8"></rect>
+                </g>
+            </g>
+            <text id="Leaderbord" sketch:type="MSTextLayer" font-family="Aller Display" font-size="143.162791" font-weight="normal" sketch:alignment="middle" fill="#184D8A">
+                <tspan x="363.666651" y="141">Leaderbord</tspan>
+            </text>
+        </g>
+        <g id="Play-Button-3" sketch:type="MSLayerGroup" transform="translate(113.000000, 1652.500000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#518ACA" x="10" y="10" width="1497" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#7CA9DC" x="0" y="0" width="1497" height="200" rx="8"></rect>
+                </g>
+            </g>
+        </g>
+        <g id="Minus" sketch:type="MSLayerGroup" transform="translate(111.000000, 581.000000)">
+            <rect id="Rectangle-2" fill="#E75D5D" sketch:type="MSShapeGroup" x="10" y="10" width="200" height="200" rx="8"></rect>
+            <rect id="Rectangle-1" fill="#FF7979" sketch:type="MSShapeGroup" x="0" y="0" width="200" height="200" rx="8"></rect>
+            <rect id="Rectangle-35" fill="#CE0000" sketch:type="MSShapeGroup" x="43" y="95" width="120" height="20"></rect>
+        </g>
+        <g id="Plus" sketch:type="MSLayerGroup" transform="translate(371.000000, 575.500000)">
+            <g id="Group-2" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-2" fill="#749B49" x="10" y="10" width="200" height="200" rx="8"></rect>
+                <rect id="Rectangle-1" fill="#99C569" x="0" y="0" width="200" height="200" rx="8"></rect>
+            </g>
+            <g id="Rectangle-36-+-Rectangle-37" transform="translate(39.000000, 45.500000)" fill="#3E5E1C" sketch:type="MSShapeGroup">
+                <rect id="Rectangle-36" x="0" y="50" width="120" height="20"></rect>
+                <rect id="Rectangle-37" transform="translate(60.000000, 60.000000) rotate(-90.000000) translate(-60.000000, -60.000000) " x="0" y="50" width="120" height="20"></rect>
+            </g>
+        </g>
+        <g id="Settings" sketch:type="MSLayerGroup" transform="translate(631.000000, 575.500000)">
+            <g id="Group-2-+-Oval-1-+-Oval-3" sketch:type="MSShapeGroup">
+                <g id="Group-2">
+                    <rect id="Rectangle-2" fill="#CBCBCB" x="10" y="10" width="200" height="200" rx="8"></rect>
+                    <rect id="Rectangle-1" fill="#DFDFDF" x="0" y="0" width="200" height="200" rx="8"></rect>
+                </g>
+            </g>
+            <g id="Group" transform="translate(43.000000, 40.500000)">
+                <g id="Oval-1-+-Oval-4" transform="translate(13.161290, 13.846154)">
+                    <mask id="mask-6" sketch:name="Oval 1" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <use id="Oval-1" fill="#686868" sketch:type="MSShapeGroup" xlink:href="#path-5"></use>
+                    <ellipse id="Oval-2" fill="#DFDFDF" sketch:type="MSShapeGroup" mask="url(#mask-6)" cx="46.4516129" cy="46.1538462" rx="30.9677419" ry="30.7692308"></ellipse>
+                </g>
+                <g id="Rectangle-36-+-Rectangle-37" transform="translate(43.354839, 0.000000)" fill="#686868" sketch:type="MSShapeGroup">
+                    <path d="M2.49507568,6.15472669 L0.259964641,16.1529656 C-0.499919561,19.5521273 2.73623876,22.3076923 7.50566707,22.3076923 L25.7846555,22.3076923 C30.5462307,22.3076923 33.7897571,19.5499575 33.0303579,16.1529656 L30.7952469,6.15472669 C30.0353627,2.755565 26.6487861,0 23.2185009,0 L10.0718217,0 C6.64718461,0 3.25447482,2.7577348 2.49507568,6.15472669 Z" id="Rectangle-36"></path>
+                    <path d="M2.49507568,103.847034 L0.259964641,113.845273 C-0.499919561,117.244435 2.73623876,120 7.50566707,120 L25.7846555,120 C30.5462307,120 33.7897571,117.242265 33.0303579,113.845273 L30.7952469,103.847034 C30.0353627,100.447873 26.6487861,97.6923077 23.2185009,97.6923077 L10.0718217,97.6923077 C6.64718461,97.6923077 3.25447482,100.450042 2.49507568,103.847034 Z" id="Rectangle-37" transform="translate(16.645001, 108.846154) scale(1, -1) translate(-16.645001, -108.846154) "></path>
+                </g>
+                <g id="Rectangle-36-+-Rectangle-38" transform="translate(59.923076, 59.876896) rotate(58.000000) translate(-59.923076, -59.876896) translate(43.423076, -0.123104)" fill="#686868" sketch:type="MSShapeGroup">
+                    <path d="M2.49507568,6.15472669 L0.259964641,16.1529656 C-0.499919561,19.5521273 2.73623876,22.3076923 7.50566707,22.3076923 L25.7846555,22.3076923 C30.5462307,22.3076923 33.7897571,19.5499575 33.0303579,16.1529656 L30.7952469,6.15472669 C30.0353627,2.755565 26.6487861,-7.10542736e-14 23.2185009,-7.10542736e-14 L10.0718217,-7.10542736e-14 C6.64718461,-7.10542736e-14 3.25447482,2.7577348 2.49507568,6.15472669 Z" id="Rectangle-36"></path>
+                    <path d="M2.49507568,103.847034 L0.259964641,113.845273 C-0.499919561,117.244435 2.73623876,120 7.50566707,120 L25.7846555,120 C30.5462307,120 33.7897571,117.242265 33.0303579,113.845273 L30.7952469,103.847034 C30.0353627,100.447873 26.6487861,97.6923077 23.2185009,97.6923077 L10.0718217,97.6923077 C6.64718461,97.6923077 3.25447482,100.450042 2.49507568,103.847034 Z" id="Rectangle-37" transform="translate(16.645001, 108.846154) scale(1, -1) translate(-16.645001, -108.846154) "></path>
+                </g>
+                <g id="Rectangle-36-+-Rectangle-39" transform="translate(59.923076, 60.123104) rotate(-58.000000) translate(-59.923076, -60.123104) translate(43.423076, 0.123104)" fill="#686868" sketch:type="MSShapeGroup">
+                    <path d="M2.49507568,6.15472669 L0.259964641,16.1529656 C-0.499919561,19.5521273 2.73623876,22.3076923 7.50566707,22.3076923 L25.7846555,22.3076923 C30.5462307,22.3076923 33.7897571,19.5499575 33.0303579,16.1529656 L30.7952469,6.15472669 C30.0353627,2.755565 26.6487861,-1.77635684e-14 23.2185009,-1.77635684e-14 L10.0718217,-1.77635684e-14 C6.64718461,-1.77635684e-14 3.25447482,2.7577348 2.49507568,6.15472669 Z" id="Rectangle-36"></path>
+                    <path d="M2.49507568,103.847034 L0.259964641,113.845273 C-0.499919561,117.244435 2.73623876,120 7.50566707,120 L25.7846555,120 C30.5462307,120 33.7897571,117.242265 33.0303579,113.845273 L30.7952469,103.847034 C30.0353627,100.447873 26.6487861,97.6923077 23.2185009,97.6923077 L10.0718217,97.6923077 C6.64718461,97.6923077 3.25447482,100.450042 2.49507568,103.847034 Z" id="Rectangle-37" transform="translate(16.645001, 108.846154) scale(1, -1) translate(-16.645001, -108.846154) "></path>
+                </g>
+            </g>
+        </g>
+        <g id="Rectangle-45-+-Rectangle-47-+-Rectangle-46" sketch:type="MSLayerGroup" transform="translate(768.000000, 1694.000000)" fill="#184D8A">
+            <rect id="Rectangle-45" sketch:type="MSShapeGroup" x="0" y="48.5517241" width="59.229249" height="79.4482759"></rect>
+            <rect id="Rectangle-47" sketch:type="MSShapeGroup" x="125.770751" y="64" width="59.229249" height="64"></rect>
+            <rect id="Rectangle-46" sketch:type="MSShapeGroup" x="62.8853755" y="0" width="59.229249" height="128"></rect>
+        </g>
+        <g id="Rectangle-45-+-Rectangle-47-+-Rectangle-47" sketch:type="MSLayerGroup" transform="translate(779.000000, 1967.000000)" fill="#184D8A">
+            <rect id="Rectangle-45" sketch:type="MSShapeGroup" x="0" y="40.9655172" width="49.944664" height="67.0344828"></rect>
+            <rect id="Rectangle-47" sketch:type="MSShapeGroup" x="106.055336" y="54" width="49.944664" height="54"></rect>
+            <rect id="Rectangle-46" sketch:type="MSShapeGroup" x="53.027668" y="0" width="49.944664" height="108"></rect>
+        </g>
+    </g>
+</svg>
